@@ -1,0 +1,13 @@
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.exe
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.deps.json
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.runtimeconfig.json
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.runtimeconfig.dev.json
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.dll
+C:\Users\студент\source\repos\Практическая работа 10\bin\Debug\netcoreapp3.1\Практическая работа 10.pdb
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.AssemblyInfo.cs
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.dll
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.pdb
+C:\Users\студент\source\repos\Практическая работа 10\obj\Debug\netcoreapp3.1\Практическая работа 10.genruntimeconfig.cache
